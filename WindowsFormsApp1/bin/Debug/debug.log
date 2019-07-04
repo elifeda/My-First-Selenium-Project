@@ -1,0 +1,2 @@
+[0704/210442.762:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0704/210442.763:ERROR:exception_snapshot_win.cc(98)] thread ID 13356 not found in process
